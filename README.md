@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OwenDunstan2003
+- 👀 I’m interested in programming and learning new languages
+- 🌱 I’m currently learning python
